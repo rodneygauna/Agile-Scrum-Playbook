@@ -15,7 +15,7 @@ The Scrum framework includes several roles, including:
 The Scrum framework also includes several ceremonies, such as:
 
 - Sprint Planning
-- Daily Scrum
+- Stand-Ups (Daily Scrum)
 - Sprint Review
 - Sprint Retrospective
 
