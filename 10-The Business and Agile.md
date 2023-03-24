@@ -1,6 +1,6 @@
 # 10-The Business & Agile
 
-by moving to Agile and Scrum, the company should expect an iterative approach, customer feedback, collaboration, continuous improvement, transparency, and flexibility. However, the company should not expect fixed scope and deadlines, predictable delivery, use of Scrum for evaluating development performance, or absence of documentation. It's important for the company to have a clear understanding of what to expect and what not to expect when adopting Agile and Scrum to ensure a successful implementation.
+By moving to Agile and Scrum, the company should expect an iterative approach, customer feedback, collaboration, continuous improvement, transparency, and flexibility. However, the company should not expect fixed scope and deadlines, predictable delivery, use of Scrum for evaluating development performance, or absence of documentation. It's important for the company to have a clear understanding of what to expect and what not to expect when adopting Agile and Scrum to ensure a successful implementation.
 
 ## Expectations
 
