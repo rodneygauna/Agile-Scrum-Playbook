@@ -2,16 +2,13 @@
 
 Story Points are a way of estimating the effort required to complete a User Story. The Fibonacci sequence is commonly used to assign Story Points to User Stories. The sequence is a series of numbers in which each number is the sum of the two preceding numbers: 1, 2, 3, 5, 8, 13, 21, 34, etc. Here's a breakdown of the Story Points commonly used in Scrum, along with examples:
 
-1. 0: This is used for User Stories that require no effort to complete, such as fixing a typo or updating documentation.
-2. 1: This is used for User Stories that are very simple and can be completed quickly, such as adding a button or changing a color.
-3. 2: This is used for User Stories that are slightly more complex, but still relatively simple, such as adding a new field to a form or creating a basic report.
-4. 3: This is used for User Stories that are moderately complex and require more effort to complete, such as integrating with an external system or implementing a new workflow.
-5. 5: This is used for User Stories that are complex and require significant effort to complete, such as building a new feature from scratch or completely redesigning a page.
-6. 8: This is used for User Stories that are very complex and require a lot of effort to complete, such as implementing a new payment gateway or completely overhauling the architecture of an application.
-7. 13: This is used for User Stories that are extremely complex and require a significant amount of effort to complete, such as building a new integration with a complex API or completely rewriting a large portion of the codebase.
-8. 21: This is used for User Stories that are even more complex and require a massive amount of effort to complete, such as building a new product from scratch or overhauling the entire application architecture.
-9. 40: This is used for User Stories that are extremely large and complex, and may require multiple sprints or teams to complete.
-10. 100: This is used for User Stories that are so large and complex that they cannot be estimated with any degree of accuracy.
++ 1: I know what to do and can tell you what the code is off the top of my head; like a label change.
++ 2: I know what to do and can tell you most of what I would code from the top of my head; like adding an input field with validation.
++ 3: I have a strong idea of what needs to be done, but I'll need to do some thinking. I have a firm idea of what to do, but might need help or clarity as I work through it; like creating the layout of a simple form.
++ 5: I have an idea of what to do, but I'll connect with others on the team to make sure my approach is correct; like form submission.
++ 8: I'll need the team's help to ensure I'm solving/implementing what's needed; like creating an API schema from scratch.
++ 13: There is a lot of uncertainty about what I need to do, so I will be going back-and-forth with others on the team; like building out a complex CRUD page.
++ 21: I don't understand what needs to be accomplished and will be spending a lot of time figuring out the right approach; such as building a new product from scratch or overhauling the entire application architecture.
 
 ## Story Points are ranges
 
